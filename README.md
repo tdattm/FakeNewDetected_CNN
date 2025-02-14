@@ -8,6 +8,7 @@ To run this project, you need to install the necessary dependencies. You can fin
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Datasets
 
